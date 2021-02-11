@@ -36,8 +36,8 @@ li.menu-item{
  }
 
 footer{
-	background: #72D2F5;
-	color: #002A69;
+	background: #000000;
+	color: #2AF103;
 	text-align: center;
 	position: fixed;
 	left: 0;
@@ -54,8 +54,8 @@ footer{
 	width: 250px;
 	height: 250px;
 	background:  #000000;
-	color:#F3680B;
-	border-color: #F3680B;
+	color:#2AF103;
+	border-color: #2AF103;
 	font-size: 45px;
 	cursor: pointer;
 }
