@@ -16,7 +16,7 @@
 }
 /* Menu Style*/
 nav{
-	background: #00FF9C;
+	background: #000000;
 	padding: 10px 0;
 	text-align: center;
 }
@@ -31,7 +31,7 @@ li.menu-item{
 }
  li.menu-item a{
  	text-decoration: none;
- 	color:#002A69;
+ 	color:#2AF103;
 
  }
 
@@ -58,4 +58,9 @@ footer{
 	border-color: #F3680B;
 	font-size: 45px;
 	cursor: pointer;
+}
+
+.backround{
+	height: 100%;
+	width: 100%;
 }
