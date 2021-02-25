@@ -1,3 +1,3 @@
 # About this project
 
-This is my project to learn Git and GitHub
+This is my project about to learn Git and GitHub
